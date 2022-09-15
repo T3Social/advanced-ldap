@@ -1,0 +1,15 @@
+{
+  "id": "advanced-ldap",
+  "name": "Advanced LDAP",
+  "description": "Provides advanced LDAP functions like LDAP group/space mapping.",
+  "keywords": [
+    "ldap",
+    "active directory"
+  ],
+  "version": "1.2.3",
+  "humhub": {
+    "minVersion": "1.8"
+  },
+  "homepage": "https://github.com/humhub/advanced-ldap-issues",
+  "screenshots": []
+}
